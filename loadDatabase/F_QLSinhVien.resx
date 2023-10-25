@@ -118,6 +118,29 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnUpDate.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAALAAAACwARRqq2kAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
+        AAAD1ElEQVRIS92Va0xTZxjH+3mJfhjZYsQ4xsKmAaSl0oaK5dqyUuoGOKcpLurmNjZu3Vkl0WmBYail
+        DHDQC2CVocRxGRVGUNIYnUgQhoPNMBek6MZFujFr5bQOt/zX86pHsWjI5pftJL/09Dnv+f/ePn2Sl/O/
+        uPy9bPTyhpfXvSy5d/9vYTKXc/xWrBxRaqv+StcZsf3gEZRd/g1b9WYw3/8pWw4YIS6sxHOvhDg4gTzh
+        uHnyT9zHND6HzC9OQJ6Ziw05HyHD0gTjz7dROTaLqqs0u05zegh7bRfJ/cetZ6D9dgxV19zIqm/H56Mu
+        5NjvYGWUhJ4nKL10HbyEOGQU7kBDfwXqe8tAlb4PbowI/hFrsUIQgeJ+OwzXPAhZKwBXEIm89vNIkMkR
+        Hh2PzRodtijTofiQ8hWYJu5AmJyEY33luOC2slh/rMaLwmAImsoRot+F2IxcspnEbe8hQbkD5ZdnIEpO
+        wea9xdjTeQH8mARQjV2+ArX1LN7e8xYJ/UD7DuTvytE0ZGDDIxr08OfzoPvuF7ZNT4IVPLN06Sw/RuJY
+        HhDgPnyuBJojFF7e/hq4pbsQKBGy4S9FhsBv2fNzzNrFEJGY7FnyrN8cRyAQjM95PFDnqUjPLd+U4IXo
+        cETZLBCfO8qGd4xaIJHFglm7GOgZB+Jjo2lW8OXxBlC6naRFFR2FCIjlg1fzKQIjg0m45awOKiqLDWhu
+        bERaaqoPZqNxYQHtcoEv5KJ95BCRGE7th2SrBB32wzh/swViaSTsIyOs4GH+cLsxPTVFuOV0kpqPgOHS
+        0BB4gjAUH81Dt7MZvXQrDp05QMJbv2qeF/owPwwOsr+g2mQitQUFDDMOB4q1RZAppHhV4R05de5jd/4k
+        Hit4WswTMH3T7NuHwYEB1NfVQZWTg/i4OAz09YFSqZAolaK3p4e8mJWZiaujo/hk926EhobiYn8/UlNS
+        oKYofN3WBvH69fhMr58vYNry5qZNOG2zYX9RETYoFMj2BhkqKyFPSsL1yUlsTEvD2JUrCAoKQmFBAaml
+        K5VEyg0Lg8lgIBPETJdUIsHN6ckHAmaCosVi5Gs0ZCEjaG1pgWd2FkkyGSrKypCbnY2C/HyErVlDdj41
+        McEK+OHhJJgR5KnVWCcS+f4HPd3dqDGbSeipzk4yeky9zWqFpbYWrhs30HXyJG7TNHnOtNXW1UXWMJNT
+        W12Nn4aHyWaYT3pm+q4gap3oV4/LiaeK83fcctxrUfDq1Y7yEi0O6nWLpq7GBPvw9ws+uw+TGbxqlcN7
+        qnmPtQdH5mKRefF7pPYod4/M//jF4fwNUMTfi1luzXIAAAAASUVORK5CYII=
+</value>
+  </data>
   <data name="btnXoa.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8

@@ -41,6 +41,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.cbxLop = new System.Windows.Forms.ComboBox();
             this.btnXoa = new System.Windows.Forms.Button();
+            this.btnUpDate = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGVLSv)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -58,6 +59,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnUpDate);
             this.groupBox1.Controls.Add(this.btnXoa);
             this.groupBox1.Controls.Add(this.cbxLop);
             this.groupBox1.Controls.Add(this.btnAdd);
@@ -79,7 +81,7 @@
             // 
             this.btnAdd.FlatAppearance.BorderSize = 0;
             this.btnAdd.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.Image")));
-            this.btnAdd.Location = new System.Drawing.Point(457, 126);
+            this.btnAdd.Location = new System.Drawing.Point(284, 126);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(261, 38);
             this.btnAdd.TabIndex = 8;
@@ -170,6 +172,17 @@
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
+            // btnUpDate
+            // 
+            this.btnUpDate.FlatAppearance.BorderSize = 0;
+            this.btnUpDate.Image = ((System.Drawing.Image)(resources.GetObject("btnUpDate.Image")));
+            this.btnUpDate.Location = new System.Drawing.Point(559, 126);
+            this.btnUpDate.Name = "btnUpDate";
+            this.btnUpDate.Size = new System.Drawing.Size(261, 38);
+            this.btnUpDate.TabIndex = 11;
+            this.btnUpDate.UseVisualStyleBackColor = true;
+            this.btnUpDate.Click += new System.EventHandler(this.btnUpDate_Click);
+            // 
             // F_QLSinhVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -202,5 +215,6 @@
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.ComboBox cbxLop;
         private System.Windows.Forms.Button btnXoa;
+        private System.Windows.Forms.Button btnUpDate;
     }
 }
