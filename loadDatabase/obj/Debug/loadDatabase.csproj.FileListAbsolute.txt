@@ -9,3 +9,6 @@ D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.c
 D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.exe
 D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.pdb
 D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.F_QLSinhVien.resources
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\bin\Debug\DTO.dll
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\bin\Debug\DTO.pdb
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.csproj.CopyComplete
