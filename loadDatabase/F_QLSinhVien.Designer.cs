@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(F_QLSinhVien));
             this.DGVLSv = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.txtMSSV = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnTim = new System.Windows.Forms.Button();
@@ -38,6 +39,8 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.cbxLop = new System.Windows.Forms.ComboBox();
+            this.btnXoa = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DGVLSv)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -45,16 +48,19 @@
             // DGVLSv
             // 
             this.DGVLSv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGVLSv.Location = new System.Drawing.Point(95, 142);
+            this.DGVLSv.Location = new System.Drawing.Point(95, 203);
             this.DGVLSv.Name = "DGVLSv";
             this.DGVLSv.RowHeadersWidth = 51;
             this.DGVLSv.RowTemplate.Height = 24;
-            this.DGVLSv.Size = new System.Drawing.Size(876, 383);
+            this.DGVLSv.Size = new System.Drawing.Size(876, 322);
             this.DGVLSv.TabIndex = 9;
             this.DGVLSv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGVLSv_CellClick);
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnXoa);
+            this.groupBox1.Controls.Add(this.cbxLop);
+            this.groupBox1.Controls.Add(this.btnAdd);
             this.groupBox1.Controls.Add(this.txtMSSV);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.btnTim);
@@ -64,10 +70,21 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(95, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(876, 124);
+            this.groupBox1.Size = new System.Drawing.Size(876, 170);
             this.groupBox1.TabIndex = 8;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin ";
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.FlatAppearance.BorderSize = 0;
+            this.btnAdd.Image = ((System.Drawing.Image)(resources.GetObject("btnAdd.Image")));
+            this.btnAdd.Location = new System.Drawing.Point(457, 126);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(261, 38);
+            this.btnAdd.TabIndex = 8;
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtMSSV
             // 
@@ -91,7 +108,7 @@
             // 
             this.btnTim.FlatAppearance.BorderSize = 0;
             this.btnTim.Image = ((System.Drawing.Image)(resources.GetObject("btnTim.Image")));
-            this.btnTim.Location = new System.Drawing.Point(801, 21);
+            this.btnTim.Location = new System.Drawing.Point(765, 14);
             this.btnTim.Name = "btnTim";
             this.btnTim.Size = new System.Drawing.Size(55, 38);
             this.btnTim.TabIndex = 5;
@@ -134,6 +151,25 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Tên Sinh Viên : ";
             // 
+            // cbxLop
+            // 
+            this.cbxLop.FormattingEnabled = true;
+            this.cbxLop.Location = new System.Drawing.Point(472, 66);
+            this.cbxLop.Name = "cbxLop";
+            this.cbxLop.Size = new System.Drawing.Size(246, 24);
+            this.cbxLop.TabIndex = 9;
+            // 
+            // btnXoa
+            // 
+            this.btnXoa.FlatAppearance.BorderSize = 0;
+            this.btnXoa.Image = ((System.Drawing.Image)(resources.GetObject("btnXoa.Image")));
+            this.btnXoa.Location = new System.Drawing.Point(60, 126);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(202, 38);
+            this.btnXoa.TabIndex = 10;
+            this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
+            // 
             // F_QLSinhVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -163,5 +199,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtMSSV;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.ComboBox cbxLop;
+        private System.Windows.Forms.Button btnXoa;
     }
 }
