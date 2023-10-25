@@ -1,0 +1,11 @@
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\bin\Debug\loadDatabase.exe.config
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\bin\Debug\loadDatabase.exe
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\bin\Debug\loadDatabase.pdb
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.csproj.AssemblyReference.cache
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.Form1.resources
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.Properties.Resources.resources
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.csproj.GenerateResource.cache
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.csproj.CoreCompileInputs.cache
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.exe
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.pdb
+D:\DaiHoc\CongNghe.net\Tuan12\loadDatabase\loadDatabase\obj\Debug\loadDatabase.F_QLSinhVien.resources
